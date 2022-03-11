@@ -12,7 +12,8 @@ Aplikasi ini dibuat menggunakan react native, untuk menjalankan aplikasi ini dap
     npm run start
     
 
-Terdapat package modul yang digunakan dalam aplikasi ini yaitu <b>react-navigation</b> berikut adalah link dokumentasinya: https://reactnavigation.org/docs/getting-started 
+Terdapat package modul yang digunakan dalam aplikasi ini yaitu <a href="https://reactnavigation.org/docs/getting-started"><b>react-navigation</b></a> dan <a href="https://github.com/oblador/react-native-vector-icons"><b>react-native-vector-icons</b></a>
+
 
 <b>Penjelasan Aplikasi:</b>
 
