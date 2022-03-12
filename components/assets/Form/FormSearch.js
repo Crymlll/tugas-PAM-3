@@ -56,6 +56,7 @@ const FormSearch = ({navigation}) => {
                         value={text.tanggal}
                         onChangeText={clickHandler('tanggal')}
                         underlineColorAndroid="transparent"
+                        keyboardType="numeric"
                     />
                 </View>
             </View>

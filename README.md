@@ -30,3 +30,7 @@ Case 2:
 
 <p align="center"><img width="400" src="https://github.com/Crymlll/tugas-PAM-3/blob/main/ScreenshotApp/ss3.png" alt="ss3"></p>
 <p align="center"><img width="400" src="https://github.com/Crymlll/tugas-PAM-3/blob/main/ScreenshotApp/ss4.png" alt="ss4"></p>
+
+Not Flight Available:
+
+<p align="center"><img width="400" src="https://github.com/Crymlll/tugas-PAM-3/blob/main/ScreenshotApp/ss5.png" alt="ss5"></p>

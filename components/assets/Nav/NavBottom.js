@@ -19,6 +19,7 @@ const navStyle = StyleSheet.create({
     textCopyright:{
         fontSize: 15,
         fontWeight: 'bold',
+        textAlign: 'center',
     },
 })
 
