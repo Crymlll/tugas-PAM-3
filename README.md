@@ -19,6 +19,9 @@ Terdapat package modul yang digunakan dalam aplikasi ini yaitu <a href="https://
 
 Aplikasi ini dapat menerima input lokasi keberangkatan pesawat dari bandara <b>Soekarno Hatta</b> ke lokasi tujuan bandara <b>Juanda</b> dan keberangkatan pesawat dari bandara <b>Halim Perdanakusuma</b> ke lokasi tujuan bandara <b>Raden Inten</b>.
 
+
+<b>Aplikasi dapat di download pada folder <a href="https://github.com/Crymlll/tugas-PAM-3/tree/main/Apk">Folder Aplikasi</a></b>
+
 <b>Screenshot Aplikasi:</b>
 
 Case 1:
